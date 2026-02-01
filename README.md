@@ -1,7 +1,5 @@
 # 💸 App de Organização de Finanças Pessoais com Vibe Coding
 
-Aprenda a **criar soluções com IA** de forma criativa, guiando ferramentas como o **Copilot** e o **Lovable** com uma comunicação simples e natural. O foco é desenvolver o conceito de um **App de Organização de Finanças Pessoais**, mas, acima de tudo, aprender o **jeito Vibe de programar com IA**.
-
 ## ✨ O que é Vibe Coding
 
 **Vibe Coding** é uma forma leve e criativa de desenvolver com IA, baseada em **conversas naturais e bem estruturadas**. Você não precisa escrever código linha por linha. Em vez disso, aprende a **guiar a IA** descrevendo suas ideias de forma clara, com **intenção e contexto**. Em outras palavras:
@@ -14,42 +12,94 @@ Problema: Muitas pessoas não conseguem manter um controle financeiro porque os 
 
 Precisamos de uma solução que permita **controlar as finanças por meio de uma conversa simples**, com **agentes de IA** capazes de criar **planos de economia personalizados e automatizados**. Você deve utilizar as ideias de **Vibe Coding** e **MVP (Produto Mínimo Viável)** para desenvolver o **conceito de um aplicativo** que resolva o problema citado.
 
-> [!IMPORTANT]
-> Você **não precisa construir o código**! O foco está em **usar a IA como sua parceira criativa**, transformando boas ideias e prompts em conceitos funcionais que simulam um produto real.
-
 ## 🪄 Etapas do Desafio
 
 ### 1. Saber o que Pedir é a Chave! Otimize seus Prompts!
 
 Antes de pedir para a IA "criar um app", é importante definir com clareza o que você quer construir e por quê. Para isso, você vai criar um **PRD (Product Requirements Document)** simplificado, uma especificação que serve como _briefing_ para a IA entender sua ideia.
 
-Um bom PRD deve descrever o problema, quem será beneficiado, as principais funcionalidades e o que você espera que a IA entregue. Use o modelo abaixo como ponto de partida e adapte conforme o seu estilo:
+Um bom PRD deve descrever o problema, quem será beneficiado, as principais funcionalidades e o que você espera que a IA entregue:
 
-```txt
-# Contexto
-Quero criar um aplicativo de Organização de Finanças Pessoais que funcione por meio de conversas com o usuário.  
-A ideia é facilitar o controle financeiro de forma simples e natural, sem formulários manuais ou planilhas complexas.
+```markdown
+# PRD – Aplicativo de Organização de Finanças Pessoais
 
-# Problema
-Muitas pessoas desistem de controlar seus gastos porque os apps atuais exigem muita entrada manual e pouca personalização.  
-Quero resolver isso com uma experiência de conversa e recomendações automáticas de economia.
+## 1. Contexto
+Criar um aplicativo de **Organização de Finanças Pessoais** que funcione por meio de **conversas em linguagem natural**.  
+Objetivo: simplificar o controle financeiro, eliminando formulários complexos ou planilhas manuais.
 
-# Público-Alvo
-Pessoas que querem começar a organizar suas finanças de forma prática e sem complicação, principalmente iniciantes.
+## 2. Problema
+Muitos usuários desistem de controlar seus gastos porque:
+- Os apps exigem **entrada manual excessiva**.  
+- Há **pouca personalização**.  
 
-# Funcionalidades-Chave
+Solução: oferecer **interação conversacional** e **recomendações automáticas de economia**.
+
+## 3. Público-Alvo
+- Pessoas que desejam iniciar o controle financeiro de forma prática e sem complicações.  
+- Usuários iniciantes sem familiaridade com planilhas.  
+- Indivíduos que valorizam **simplicidade, acessibilidade e personalização**.
+
+## 4. Requisitos Funcionais
 1. Registrar gastos via chat em linguagem natural.  
 2. Classificar automaticamente as transações.  
 3. Definir e acompanhar metas financeiras.  
 4. Receber dicas de economia do “Agente Financeiro”.  
-5. Visualizar relatórios simples e personalizados.
+5. Visualizar relatórios simples e personalizados.  
+6. Utilizar Design Universal para acessibilidade.  
+7. Exibir gráficos estatísticos de controle financeiro.  
+8. Apelo visual moderno com cores harmoniosas e nuances em 3D.  
+9. Mensagens destacadas para rápida percepção de alertas.  
 
-# Entregável da IA
-Gerar um plano de MVP com as principais telas, recursos necessários e um esboço de validação inicial.  
-Usar tom educativo e linguagem acessível, em português.
+## 5. Entregável da IA
+Gerar um **plano de MVP** contendo:
+- Principais telas do aplicativo.  
+- Recursos essenciais da primeira versão.  
+- Esboço de validação inicial com usuários.  
+- Linguagem acessível e educativa, em português.  
+
+---
+
+# Plano de MVP
+
+### Principais Telas
+- **Tela de Conversa**: registro de gastos e interação com o Agente Financeiro.  
+- **Tela de Metas**: definição e acompanhamento de objetivos.  
+- **Tela de Relatórios**: visão geral dos gastos e gráficos.  
+- **Tela de Configurações**: personalização de categorias e preferências.  
+
+### Recursos Essenciais
+- Processamento de linguagem natural para registrar gastos.  
+- Classificação automática de transações.  
+- Sistema de metas financeiras com notificações.  
+- Relatórios básicos com gráficos simples.  
+- Interface acessível e responsiva (Design Universal).  
+
+### Validação Inicial
+- Testar com grupo pequeno de usuários iniciantes.  
+- Avaliar clareza da interação via chat.  
+- Medir engajamento com metas financeiras.  
+- Coletar feedback sobre usabilidade e visual.  
+
 ```
 
-Depois de preencher o modelo, use o Copilot Web para revisar e melhorar o seu prompt antes de ir ao Lovable. A ideia é lapidar o texto até que ele fique claro, direto e reflita exatamente a sua intenção.
+# Conceitos Didáticos
+
+### Vibe Coding
+Abordagem de desenvolvimento que busca criar experiências digitais **humanas e envolventes**, transmitindo uma sensação positiva ao usuário.
+
+### PRD (Product Requirements Document)
+Documento que descreve **o que o produto deve fazer**, incluindo contexto, problema, público-alvo e requisitos.  
+Serve como guia para o time de desenvolvimento.
+
+### Design Universal
+Princípios que garantem que o produto seja **acessível ao maior número possível de pessoas**, independentemente de idade ou limitações.  
+Exemplo: contraste adequado, fontes legíveis, navegação simples.
+
+### MVP (Minimum Viable Product)
+Primeira versão funcional de um produto, com apenas os recursos essenciais para **validar a ideia com usuários reais**.  
+Objetivo: testar hipóteses rapidamente e evoluir com base em feedback.
+
+
 
 > [!TIP]
 > Pense no PRD/Prompt como “o briefing que a IA precisa para entender sua vibe”. Portanto, quanto mais claro e intencional for o texto, mais próximas do ideal serão as respostas da IA.
