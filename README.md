@@ -157,10 +157,10 @@ Objetivo: testar hipóteses rapidamente e evoluir com base em feedback.
 # Telas Principais
 
 ## Tela de Logon
-![Tela de Logon](https://github.com/Marco030667/dio-lab-vibe-coding-app-financas/blob/main/Logon.jpg)
+![Tela de Logon](https://raw.githubusercontent.com/Marco030667/dio-lab-vibe-coding-app-financas/main/Logon.jpg)
 
 ## Tela do Aplicativo
-![Tela do Aplicativo](https://github.com/Marco030667/dio-lab-vibe-coding-app-financas/blob/main/Aplicativo.jpg)
+![Tela do Aplicativo](https://raw.githubusercontent.com/Marco030667/dio-lab-vibe-coding-app-financas/main/Aplicativo.jpg)
 
 
 - Prints ou pequenos vídeos das interações com a IA;  
