@@ -158,7 +158,7 @@ Objetivo: testar hipóteses rapidamente e evoluir com base em feedback.
 
 ![Tela de Login Chat   Save Finance](https://github.com/user-attachments/assets/5a09a188-ba3f-4adf-8fd9-93e04a31cd44)
 
-![Tela Aplicativo Ativo](https://github.com/user-attachments/assets/f6c46f3f-e462-485f-8e27-b76e104247ef)
+https://github.com/Marco030667/dio-lab-vibe-coding-app-financas/blob/main/Tela%20Aplicativo%20Ativo.jpg
 
 
 - Prints ou pequenos vídeos das interações com a IA;  
