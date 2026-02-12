@@ -156,9 +156,9 @@ Objetivo: testar hipóteses rapidamente e evoluir com base em feedback.
 
 # Telas Principais
 
-![Tela de Logon](Logon.jpg)
 
-![Aplicativo Funcionando](Aplicativo.jpg)
+
+
 
 
 
