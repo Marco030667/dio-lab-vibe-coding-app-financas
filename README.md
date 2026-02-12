@@ -156,9 +156,9 @@ Objetivo: testar hipóteses rapidamente e evoluir com base em feedback.
 
 # Telas Principais
 
-![Tela de Login Chat   Save Finance](https://github.com/user-attachments/assets/ee42bc0c-4b90-46fa-a919-40ddce13308b)
+![Tela de Login Chat   Save Finance](https://github.com/user-attachments/assets/5a09a188-ba3f-4adf-8fd9-93e04a31cd44)
 
-![Tela Aplicativo Ativo](https://github.com/user-attachments/assets/957f0a81-4dbe-4155-b1eb-02a77db1499d)
+![Tela Aplicativo Ativo](https://github.com/user-attachments/assets/f6c46f3f-e462-485f-8e27-b76e104247ef)
 
 
 - Prints ou pequenos vídeos das interações com a IA;  
