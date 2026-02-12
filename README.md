@@ -20,17 +20,17 @@ Antes de pedir para a IA "criar um app", é importante definir com clareza o que
 
 Um bom PRD deve descrever o problema, quem será beneficiado, as principais funcionalidades e o que você espera que a IA entregue:
 
-```markdown
+
 # PRD – Aplicativo de Organização de Finanças Pessoais  
 **Autor: Marco Donnici**
 
----
+
 
 ## 1. Contexto
 O objetivo é criar um aplicativo de Organização de Finanças Pessoais que funcione por meio de conversas em linguagem natural.  
 A proposta é simplificar o controle financeiro, eliminando a necessidade de formulários complexos ou planilhas manuais, tornando a experiência mais fluida e acessível.
 
----
+
 
 ## 2. Problema
 Atualmente, muitos usuários desistem de controlar seus gastos porque:
@@ -39,14 +39,14 @@ Atualmente, muitos usuários desistem de controlar seus gastos porque:
 
 O aplicativo busca resolver isso oferecendo uma interação conversacional e recomendações automáticas de economia, tornando o processo mais natural e motivador.
 
----
+
 
 ## 3. Público-Alvo
 - Pessoas que desejam iniciar o controle financeiro de forma prática e sem complicações.  
 - Usuários iniciantes que não têm familiaridade com planilhas ou ferramentas tradicionais.  
 - Indivíduos que valorizam simplicidade, acessibilidade e personalização.  
 
----
+
 
 ## 4. Requisitos Funcionais
 - Registro de gastos via chat em linguagem natural.  
@@ -59,7 +59,7 @@ O aplicativo busca resolver isso oferecendo uma interação conversacional e rec
 - Apelo visual moderno, com cores harmoniosas e nuances em 3D.  
 - Mensagens destacadas, para rápida percepção de alertas e recomendações.  
 
----
+
 
 ## 5. Entregável da IA
 A IA deve gerar um plano de MVP contendo:
@@ -68,7 +68,7 @@ A IA deve gerar um plano de MVP contendo:
 - Esboço de validação inicial com usuários.  
 - Linguagem acessível e educativa, em português.  
 
----
+
 
 # Plano de MVP
 
@@ -78,7 +78,7 @@ A IA deve gerar um plano de MVP contendo:
 - **Tela de Relatórios**: visão geral dos gastos, gráficos e estatísticas.  
 - **Tela de Configurações**: personalização de categorias, alertas e preferências visuais.  
 
----
+
 
 ## Recursos Essenciais
 - Processamento de linguagem natural para registrar gastos.  
@@ -87,7 +87,7 @@ A IA deve gerar um plano de MVP contendo:
 - Relatórios básicos com gráficos simples.  
 - Interface acessível e responsiva (Design Universal).  
 
----
+
 
 ## Validação Inicial
 - Testar com um grupo pequeno de usuários iniciantes.  
@@ -113,13 +113,11 @@ Exemplo: contraste adequado, fontes legíveis, navegação simples.
 Primeira versão funcional de um produto, com apenas os recursos essenciais para **validar a ideia com usuários reais**.  
 Objetivo: testar hipóteses rapidamente e evoluir com base em feedback.
 
----
 
 # DIÁLOGO COM A IA Lovable para criação do Aplicativo:
 
 ## Histórico Técnico – Problemas e Soluções com a IA Lovable
 
----
 
 ## Problemas Identificados
 - **Registro de transações**: gastos e receitas não estavam sendo salvos corretamente.  
@@ -130,7 +128,7 @@ Objetivo: testar hipóteses rapidamente e evoluir com base em feedback.
 - **Gerenciamento de usuário**: não havia opção para alterar senha ou excluir conta.  
 - **Warning React**: `AlertDialogFooter` não suportava `ref`.  
 
----
+
 
 ## Soluções Aplicadas
 - **Backend**: ajuste no hook de chat e edge function para salvar transações corretamente.  
@@ -141,7 +139,7 @@ Objetivo: testar hipóteses rapidamente e evoluir com base em feedback.
 - **Configurações**: adicionadas opções de alterar senha e excluir conta (com confirmação e exclusão completa dos dados).  
 - **Correção React**: uso de `forwardRef` para eliminar warning no `AlertDialogFooter`.  
 
----
+
 
 ## Resultado Final
 - Aplicativo funcional, com todas as telas fixas e acessíveis.  
