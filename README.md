@@ -156,7 +156,7 @@ Objetivo: testar hipóteses rapidamente e evoluir com base em feedback.
 
 # Telas Principais
 
-![Tela de Login Chat   Save Finance](https://github.com/user-attachments/assets/5a09a188-ba3f-4adf-8fd9-93e04a31cd44)
+https://github.com/Marco030667/dio-lab-vibe-coding-app-financas/blob/main/Tela%20de%20Login%20Chat%20%26%20Save%20Finance.jpg
 
 https://github.com/Marco030667/dio-lab-vibe-coding-app-financas/blob/main/Tela%20Aplicativo%20Ativo.jpg
 
