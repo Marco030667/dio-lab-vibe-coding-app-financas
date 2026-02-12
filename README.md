@@ -160,7 +160,7 @@ Objetivo: testar hipóteses rapidamente e evoluir com base em feedback.
 ![Tela de Logon](./Logon.jpg)
 
 ## Tela do Aplicativo
-![Tela do Aplicativo](./Aplicativo.jpg)
+![Tela do Aplicativo]([./Aplicativo.jpg](https://github.com/Marco030667/dio-lab-vibe-coding-app-financas/blob/main/Aplicativo.jpg))
 
 
 - Prints ou pequenos vídeos das interações com a IA;  
