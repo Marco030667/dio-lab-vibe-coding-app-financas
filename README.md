@@ -229,15 +229,16 @@ O objetivo é oferecer uma forma prática e acessível de controlar finanças pe
 
 ---
 
+## Uma breve **reflexão sobre o processo**:
 
-- Uma breve **reflexão sobre o processo**:
-  - O que funcionou bem?  
-  - O que não funcionou como o esperado?  
+  - O que funcionou bem?
+    A combinação do Copilot Web com o Lovable para produção do protótipo funciona muito bem. O objetivo foi atingido e superou minhas expectativas! Realmente o Vibe Coding é uma técnica que vai dominar o mercado definitivamente e o casamento entre as idéias do ser humano com a velocidade e capacidade da inteligência artificial é imbatível!
+      
+  - O que não funcionou como o esperado?
+    O grande problema é que o acesso a esses recursos de IA ainda é distante para muitos por ser cobrado, e no caso do Lovable, a quantidade de créditos para uso gratuito é muito pequena! Se eu tivesse acesso liberado ao Lovable sem dependência de crédito, teria resolvido esse desafio em no máximo 3 horas! Mas levei pelo menos três dias já que tinha que aguardar liberação de mais crédito a cada passo.
+      
   - O que aprendeu sobre conversar com IAs?
+    A relação com a Inteligência Artificial é muito simples já que ela consegue compreender o que pedimos em qualquer situação. Mas devemos lembrar sempre que ser ajudado pela Inteligência Artificial demanda sim algum conhecimento específico sobre o que deseja criar e também definições extremamente claras sobre o que deve ser conseguido como resultado. Tudo que podemos conseguir da IA depende de muito planejamente e de informações bem claras para que ela consiga realmente entender nosso objetivo e chegar a um produto final realmente apresentável. Devemos lembrar que esses recursos dependem de nossa capacidade, são apenas ferramentas complexas que temos que entender como usar!
 
-> [!TIP]
-> Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
 
-## 💬 Conclusão
 
-Vibe Coding é sobre clareza, curiosidade e criatividade, não sobre perfeição técnica. O verdadeiro objetivo aqui é aprender a pensar junto com a IA, transformando ideias em conceitos reais e enxergando a tecnologia como uma extensão do seu raciocínio criativo. Cada interação é um experimento, quanto mais clara for sua intenção, mais surpreendente será o resultado.
