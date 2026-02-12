@@ -157,7 +157,7 @@ Objetivo: testar hipóteses rapidamente e evoluir com base em feedback.
 # Telas Principais
 
 ## Tela de Logon
-![Tela de Logon](:https://github.com/5cd60f2a-360b-4a24-be00-6b5d8d52bafb)
+![Tela de Logon](https://github.com/5cd60f2a-360b-4a24-be00-6b5d8d52bafb)
 
 ## Tela do Aplicativo
 ![Tela do Aplicativo](https://raw.githubusercontent.com/Marco030667/dio-lab-vibe-coding-app-financas/main/Aplicativo.jpg)
