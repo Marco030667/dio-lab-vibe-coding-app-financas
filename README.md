@@ -159,10 +159,10 @@ Objetivo: testar hipóteses rapidamente e evoluir com base em feedback.
 # Screenshots do Aplicativo
 
 ## Tela de Logon
-![Tela de Logon](./images/Logon.jpg)
+![Tela de Logon](./Logon.jpg)
 
 ## Tela do Aplicativo
-![Tela Aplicativo](./images/Aplicativo.jpg)
+![Tela Aplicativo](./Aplicativo.jpg)
 
 - Prints ou pequenos vídeos das interações com a IA;  
 - Um resumo do que o seu **App de Finanças Pessoais** faz;  
