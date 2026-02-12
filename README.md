@@ -157,10 +157,10 @@ Objetivo: testar hipóteses rapidamente e evoluir com base em feedback.
 # Telas Principais
 
 ## Tela de Logon
-![Tela de Logon](Logon.jpg)
+![Tela de Logon](./Logon.jpg)
 
 ## Tela do Aplicativo
-![Tela do Aplicativo](Aplicativo.jpg)
+![Tela do Aplicativo](./Aplicativo.jpg)
 
 
 - Prints ou pequenos vídeos das interações com a IA;  
