@@ -152,15 +152,7 @@ Objetivo: testar hipóteses rapidamente e evoluir com base em feedback.
 
 # Acesso Aplicativo "Finança Fácil": https://finance-converser.lovable.app/auth
 
-# Telas Principais
-
-## Tela de Logon
-![Tela de Logon](https://raw.githubusercontent.com/Marco030667/dio-lab-vibe-coding-app-financas/main/Logon.jpg)
-
-## Tela do Aplicativo
-![Tela do Aplicativo](https://raw.githubusercontent.com/Marco030667/dio-lab-vibe-coding-app-financas/main/Aplicativo.jpg)
-
-
+## 🚀 Acesso ao Aplicativo [Finança Fácil - Clique aqui](https://finance-converser.lovable.app/auth) --- ## 📱 Telas Principais ### Tela de Logon <p align="center"> <img src="https://raw.githubusercontent.com/Marco030667/dio-lab-vibe-coding-app-financas/main/Logon.jpg" width="400" alt="Tela de Logon"> </p> ### Tela do Aplicativo <p align="center"> <img src="https://raw.githubusercontent.com/Marco030667/dio-lab-vibe-coding-app-financas/main/Aplicativo.jpg" width="400" alt="Tela do Aplicativo"> </p>
 
 - Prints ou pequenos vídeos das interações com a IA;  
 - Um resumo do que o seu **App de Finanças Pessoais** faz;  
