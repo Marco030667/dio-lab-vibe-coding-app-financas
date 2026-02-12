@@ -156,10 +156,10 @@ Objetivo: testar hipóteses rapidamente e evoluir com base em feedback.
 
 # Telas Principais
 
+![Logon](https://github.com/user-attachments/assets/5cf505dd-cca9-4cc9-99ca-bc8784bf25aa)
 
 
-
-
+![Aplicativo](https://github.com/user-attachments/assets/6b0594c1-6ad6-4cf1-8b21-d84d2065ef07)
 
 
 - Prints ou pequenos vídeos das interações com a IA;  
