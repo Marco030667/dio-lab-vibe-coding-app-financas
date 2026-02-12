@@ -148,12 +148,88 @@ Objetivo: testar hipóteses rapidamente e evoluir com base em feedback.
 - Gerenciamento de usuário completo (alteração de senha e exclusão de conta).  
 - Código limpo, sem erros de rede ou falhas funcionais.  
 
-# APLICATIVO FINAL CARACTERÍSTICAS E APLICABILIDADE
 
-## 🚀 Acesso ao Aplicativo [Finança Fácil - Clique aqui](https://finance-converser.lovable.app/auth) --- ## 📱 Telas Principais ### Tela de Logon <p align="center"> <img src="https://raw.githubusercontent.com/Marco030667/dio-lab-vibe-coding-app-financas/main/Logon.jpg" width="400" alt="Tela de Logon"> </p> ### Tela do Aplicativo <p align="center"> <img src="https://raw.githubusercontent.com/Marco030667/dio-lab-vibe-coding-app-financas/main/Aplicativo.jpg" width="400" alt="Tela do Aplicativo"> </p>
+## RESUMO DE FUNCIONALIDADES E CARACTERÍSTICAS DO APLICATIVO;
 
-- Prints ou pequenos vídeos das interações com a IA;  
-- Um resumo do que o seu **App de Finanças Pessoais** faz;  
+# Finança Fácil 💰  
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+![Status](https://img.shields.io/badge/Status-MVP-blue)
+![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
+![Tech](https://img.shields.io/badge/Tech-Node.js%20%7C%20React-lightblue)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange)
+
+Aplicativo de Organização de Finanças Pessoais desenvolvido por **Marco Donnici**, com foco em simplicidade e interação natural.
+
+---
+
+## 🚀 Contexto  
+O objetivo é oferecer uma forma prática e acessível de controlar finanças pessoais por meio de **conversas em linguagem natural**, eliminando formulários complexos e planilhas manuais.  
+
+---
+
+## 🧩 Problema que Resolve  
+- Usuários desistem de controlar gastos porque os apps exigem entrada manual excessiva.  
+- Pouca personalização na experiência atual.  
+- O Finança Fácil resolve isso com **interação conversacional** e **recomendações automáticas de economia**, tornando o processo mais natural e motivador.  
+
+---
+
+## 🎯 Público-Alvo  
+- Pessoas que desejam iniciar o controle financeiro sem complicações.  
+- Usuários iniciantes sem familiaridade com planilhas.  
+- Indivíduos que valorizam **simplicidade, acessibilidade e personalização**.  
+
+---
+
+## 📱 Telas Principais  
+
+### Tela de Logon  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Marco030667/dio-lab-vibe-coding-app-financas/main/Logon.jpg" width="400" alt="Tela de Logon">
+</p>
+
+### Tela do Aplicativo  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Marco030667/dio-lab-vibe-coding-app-financas/main/Aplicativo.jpg" width="400" alt="Tela do Aplicativo">
+</p>
+
+---
+
+## ⚙️ Funcionalidades Essenciais  
+- Registro de gastos via chat em **linguagem natural**.  
+- **Classificação automática** das transações (alimentação, transporte, lazer etc.).  
+- Definição e acompanhamento de **metas financeiras**.  
+- **Agente Financeiro inteligente** com dicas personalizadas.  
+- Relatórios simples e personalizados.  
+- **Design Universal** e acessível.  
+- Visualização gráfica com estatísticas e evolução de metas.  
+
+---
+
+## 📝 Características do MVP  
+- **Tela de Conversa**: registrar gastos e interagir com o Agente Financeiro.  
+- **Tela de Metas**: definir e acompanhar objetivos financeiros.  
+- **Tela de Relatórios**: visão geral dos gastos, gráficos e estatísticas.  
+- **Tela de Configurações**: personalização de categorias e alertas.  
+
+---
+
+## 🔍 Validação Inicial  
+- Testes com grupo pequeno de usuários iniciantes.  
+- Avaliar clareza da interação via chat.  
+- Medir engajamento com metas financeiras.  
+- Coletar feedback sobre usabilidade e visual.  
+
+---
+
+## 📂 Estrutura do Repositório  
+- `README.md` → documentação do projeto  
+- `Logon.jpg` → screenshot da tela de login  
+- `Aplicativo.jpg` → screenshot da tela principal  
+
+---
+
+
 - Uma breve **reflexão sobre o processo**:
   - O que funcionou bem?  
   - O que não funcionou como o esperado?  
